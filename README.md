@@ -2,7 +2,7 @@
 
 **Live futuristic dashboard for monitoring and forecasting cryptocurrency trends — with real-time data, stylish visuals, and analytics.**
 
-![screenshot](assets/preview.png)
+
 
 ---
 
